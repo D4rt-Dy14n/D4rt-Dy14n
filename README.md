@@ -3,10 +3,10 @@
 
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/yuri-fedorov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="t.me/DarknessKeeper">
+  <a href="https://t.me/darknesskeeper">
     <img src="https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a>
     <a href="mailto:yuri.fedorov@inbox.ru">
