@@ -34,7 +34,7 @@
 
 - :ping_pong: In my free time, I read tech articles and write pet projects.
 
-- :email: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=blue&style=plastic)](t.me/DarknessKeeper)
+- :email: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=blue&style=plastic)](https://t.me/darknesskeeper)
   
 ---
 
